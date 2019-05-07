@@ -4,4 +4,5 @@
  para iniciar el proyecto ejecutar
 
 ```nodemon index```
+
  es requerido nodejs, mongodb, express
